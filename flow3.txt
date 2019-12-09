@@ -1,0 +1,1 @@
+[{"id":"8b674dc1.f4c8d","type":"function","z":"37c51aaa.e7bcc6","name":"Payload","func":"msg.headers={\n    deviceKey: \"AwzlKFwLjnU8Xf7H\"\n    };\n\nmsg.payland= \"Temperature,,8\";\nreturn msg;","outputs":1,"noerr":0,"x":304.5,"y":355,"wires":[["ed0a0aa9.0c5128"]]}]
